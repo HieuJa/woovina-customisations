@@ -1,5 +1,4 @@
 === WooVina Theme Customisations ===
-Contributors: HieuJa
 Tags: theme, edit, edits, customise, customisation, customize, customization, css, php, jquery
 Requires at least: 4.4.2
 Tested up to: 5.0.3
